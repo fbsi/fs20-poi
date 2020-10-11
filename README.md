@@ -4,6 +4,7 @@ Creating a MSFS2020 Flight Simulator SDK readable .xml File from .cup with POI t
 - Folder stucture
 - New project
 - New module + fill out some description (BGL, Scenery)
+- Asset diretory should be scene folder in project directory
 - Create object Landmark POI
 - Save scenery in project folder
 - Close project in sim
