@@ -1,5 +1,8 @@
 # fs20-poi :airplane:
 Creating a MSFS2020 Flight Simulator SDK readable .xml File from .cup with POI to display in the simulator.
+> the community folder most likely on steam installations can be found under D:\SteamLibrary\steamapps\common\MicrosoftFlightSimulator\Packages\Community
+## How to use the example
+Put the **poipackage** directory in your community folder.
 ## How-To build in the SDK
 - Folder stucture
 - New project
