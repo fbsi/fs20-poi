@@ -1,8 +1,9 @@
 # fs20-poi :airplane:
 Creating a MSFS2020 Flight Simulator SDK readable .xml File from .cup with POI to display in the simulator.
-> the community folder most likely on steam installations can be found under D:\SteamLibrary\steamapps\common\MicrosoftFlightSimulator\Packages\Community
+
 ## How to use the example
 Put the **poipackage** directory in your community folder.
+> the community folder on steam installations most likely can be found under D:\SteamLibrary\steamapps\common\MicrosoftFlightSimulator\Packages\Community
 ## How-To build in the SDK
 - Folder stucture
 - New project
@@ -24,7 +25,7 @@ the contents of the file should look like this
 - Close project and sim
 - Check Packages folder for new generated file in the scenery-sub-subfolder
 - Copy the project folder generated in Packages to your Community Folder
-> the community folder most likely on steam installations can be found under D:\SteamLibrary\steamapps\common\MicrosoftFlightSimulator\Packages\Community
+> the community folder on steam installations most likely can be found under D:\SteamLibrary\steamapps\common\MicrosoftFlightSimulator\Packages\Community
 
 ## Known problems
 The altitude parameter doesnt seem to match with real values in the sim, so factor 0.1 is applied.
