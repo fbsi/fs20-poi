@@ -6,6 +6,7 @@ Put the **poipackage** directory in your community folder.
 > the community folder on steam installations most likely can be found under D:\SteamLibrary\steamapps\common\MicrosoftFlightSimulator\Packages\Community
 ## How to use main_script.py
 LatLon23 module is needed `pip3 install LatLon23`
+
 run main_script.py with Bergnamen.cup in the same folder.
 ## How-To build in the SDK
 - Folder stucture
