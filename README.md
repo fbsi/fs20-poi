@@ -1,4 +1,4 @@
-# fs20-poi :plane:
+# fs20-poi :airplane:
 Creating a MSFS2020 Flight Simulator SDK readable .xml File from .cup with POI to display in the simulator.
 ## How-To build in the SDK
 - Folder stucture
